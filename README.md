@@ -45,3 +45,5 @@ The model was trained using the King County House Sales dataset, which contains 
 * Problem Type: Regression
 * Target Variable: House Price
 
+## URL
+https://housepriceprediction-6t4nezwkuwqc5zjpgh5ih3.streamlit.app/
